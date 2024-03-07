@@ -1,15 +1,15 @@
-# Naya Smith
-
-### Key Competencies
+# Key Competencies
 #### Languages
 * Professional Level: JavaScript   (React, Vue.js), C# (.NET), VBScript (ASP), SQL, Node.js, GraphQL
 * Personal Level: Java
 * Course Knowledge: R, C++, Python, Processing
 
+
 #### Technologies 
 * AWS Applications (Lambda, CloudWatch, API Gateway, S3 Bucket, DynamoDB)
 * Jira, GitHub 
 * NetBeans, Eclipse, Visual Studio, VS Code, RStudio, Unity, SQL Server Management Studio
+
 
 #### Transferrable Skills
 * Communication
@@ -19,7 +19,9 @@
 * Adaptability
 
 
-### Job Experience
+
+
+# Job Experience
 #### Dance Teacher, Lyre Ukrainian Dance School, September 2022-Present
 * Creating exercises and games to improve the technique of 54 dancers ages 5 to 17.
 * Choreographed 6 dances for festivals and the annual recital.
@@ -28,12 +30,14 @@ share suggestions for effective teaching methods.
 * Expanding organizational, leadership, teamwork, and communication skills through planning and 
 facilitating lessons.
 
+
 #### Software Developer Co-op, Payroll Company, September 2023 - December 2023
 * Closed almost 50 tickets and published code in four repositories and four languages to create new pages, endpoints and scripts, consolidate code, update legacy pages, and add logic to further the development of the project.
 * Implemented security features such as time constant comparisons to prevent timing attacks and other malicious attempts to steal user information.
 * Created and changed components of the user interface to match design mocks to ensure consistency throughout the application.
 * Tested tickets for one sprint and caught a major bug resulting from inconsistencies between front and back-end validation that would have impacted the user experience.
 * Communicated with members of three different teams to ensure the completion of tickets that spanned the scope of several projects.
+
 
 #### Software Developer, LineNurse, May 2023 - September 2023
 * Completed approximately 100 tickets including creating new backend functions, creating new features, improvements to existing features and bug fixes to improve website functionality.
@@ -43,7 +47,9 @@ facilitating lessons.
 * Wrote automated unit tests to decrease the time required to do manual testing.
 
 
-### Education
+
+
+# Education
 #### Bachelor of Science, Honours Computer Science, 2020-Present
 *  GPA: 3.80
 *  Leader of Tomorrow Scholarship: awarded to six students entering university with continuous community involvement, high academic standing, and strong leadership potential (2020 – present) 
