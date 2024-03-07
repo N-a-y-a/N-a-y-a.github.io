@@ -17,7 +17,7 @@
 * Organization
 * Problem Solving
 * Adaptability
-
+<br>
 
 
 
@@ -45,7 +45,7 @@ facilitating lessons.
 * Reported over 50 bugs during regression and integration testing before launches to production to ensure a good user experience.
 * Demonstrated the application’s functionality for a new co-op developer, introduced them to the testing process and answered their questions.
 * Wrote automated unit tests to decrease the time required to do manual testing.
-
+<br>
 
 
 
