@@ -2,11 +2,13 @@
 
 ## Purpose
 The steps below describe how I hosted [my resume](https://n-a-y-a.github.io/) on GitHub Pages, and how you can do the same. I also describe the general principles of current Technical Writing, as explained in Andrew Etter's book *Modern Technical Writing*.
+<br><br>
 
 ## Prerequisites 
 Before hosting your resume on GitHub Pages, you need to have a Markdown-formatted resume! If you are unfamiliar with Markdown, please see the **More Resources** section for helpful links.
 
 You must also have a GitHub account. It is easy to make one and you can do so [here](https://github.com/).
+<br><br>
 
 ## Instructions
 
@@ -82,7 +84,7 @@ All that's left is to edit and maintain your files. I added more line breaks to 
 You can also edit your resume to apply Etter's principles. Consider who will be looking at your resume and confirm that the vocabulary and level of detail is appropriate. Additionally, you can add headers and tables as appropriate and confirm you are using any acronyms consistently to ensure good style. 
 
 One final tip is to publish frequently, as Etter encourages technical writers to do. It is important to keep your resume up to date as you gain experience.
-<br><br><br>
+<br><br>
 
 
 ## More Resources
@@ -91,7 +93,7 @@ One final tip is to publish frequently, as Etter encourages technical writers to
 * To see what your Markdown-formatted resume looks like before hosting it on GitHub Pages and without downloading any software, [Dillinger](https://dillinger.io/) is a great resource. 
 * If you are interested in learning more about that themes that GitHub Pages support and how to implement them, see [this documentation](https://pages.github.com/themes/).
 * An e-copy of Andrew Etter's book *Modern Technical Writing* can be purchased on [Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
-
+<br><br>
 
 ## Authors and Acknowledgements
 For my resume, I used the [Slate theme](https://github.com/pages-themes/slate?tab=readme-ov-file). You can find the documentation and a list of contributors in the repository.
@@ -99,7 +101,7 @@ For my resume, I used the [Slate theme](https://github.com/pages-themes/slate?ta
 Many of the concepts discussed and implemented in this project come from Andrew Etter's book *Modern Technical Writing*, and a link to purchase the e-book is included in the **More Resources** section. 
 
 I would also like to say thank you to my group members (whose names will not be mentioned for privacy reasons) for their peer review.
-
+<br><br>
 
 ## FAQs
 
