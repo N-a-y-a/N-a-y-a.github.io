@@ -1,6 +1,6 @@
 # Key Competencies
 #### Languages
-* Professional Level: JavaScript   (React, Vue.js), C# (.NET), VBScript (ASP), SQL, Node.js, GraphQL
+* Professional Level: JavaScript (React, Vue.js), C# (.NET), VBScript (ASP), SQL, Node.js, GraphQL
 * Personal Level: Java
 * Course Knowledge: R, C++, Python, Processing
 
@@ -27,8 +27,7 @@
 * Choreographed 6 dances for festivals and the annual recital.
 * Meets with the artistic director and seven other teachers occasionally to discuss progress and 
 share suggestions for effective teaching methods.
-* Expanding organizational, leadership, teamwork, and communication skills through planning and 
-facilitating lessons.
+* Expanding organizational, leadership, teamwork, and communication skills through planning and facilitating lessons.
 
 
 #### Software Developer Co-op, Payroll Company, September 2023 - December 2023
