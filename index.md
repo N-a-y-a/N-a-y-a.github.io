@@ -71,7 +71,8 @@ Applied agile practices to plan out and create an Android app to facilitate stud
 Dancing with the performing group at Lyre Ukrainian Dance School. Performed at venues such as a Winnipeg Blue Bombers game and the International Ukrainian Dance and Culture Festival in Ukraine. Participated in benefit concerts that raised more than $65 000 for causes in Ukraine.
 #### Advocacy
 Volunteering with Diabetes Canada and JDRF at various events. Spoken at fundraisers and at educational workshops. Organized a series of presentations to classrooms in middle schools in 2019.
-#### Science Fair: Competed twice at the Canada Wide Science Fair with projects related to data analysis
+#### Science Fair
+Competed twice at the Canada Wide Science Fair with projects related to data analysis
 
 
 
