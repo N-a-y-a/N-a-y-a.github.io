@@ -57,7 +57,6 @@ At this point, you should be able to see your resume on GitHub Pages. To access 
 2) Your resume should be displayed. If not, wait a couple of minutes (it can take some time to deploy). If it still isn't displaying, see the **FAQs** section.
 
 Etter identifies building a website/making static websits as principles of technical writing. Having your resume hosted ensures that everybody who looks at it is seeing the most recent copy and there is no risk of sharing an old version accidently. It also encourages you to keep it up to date and allows you to update or correct it quickly, even after it has been shared.
-
 <br><br>
 
 
@@ -72,8 +71,9 @@ If you are satisfied with the way your resume looks, you can stop here. However,
 5) Commit the change.
 6) Refresh your other tab to see the change (you may need to wait a couple minutes).
 
-You have now elevated your static site by using a theme to add some colour and apply a more interesting format.
+You have now elevated your static site by using a theme to add some colour and apply a more interesting format. It should look something like this:
 
+![resume-gif](https://github.com/N-a-y-a/N-a-y-a.github.io/blob/main/resumeGif.gif)
 <br><br>
 
 
