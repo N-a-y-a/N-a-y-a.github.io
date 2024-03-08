@@ -57,25 +57,21 @@ share suggestions for effective teaching methods.
 
 
 
-### Academic Projects
-* Pet Adoption Website (Human-Computer Interaction I): Created the user interface for a pet 
-adoption website in a group of 5 using JavaScript, HTML and CSS. Design principles were applied to 
-ensure a good user experience.
-* StudyPlus App (Software Engineering I): Applied agile practices to plan out and create an Android 
-app to facilitate studying. It supports cue cards, quizzes and categorizing by course/topic.
+# Academic Projects
+#### Pet Adoption Website (Human-Computer Interaction I)
+Created the user interface for a pet adoption website in a group of 5 using JavaScript, HTML and CSS. Design principles were applied to ensure a good user experience.
+#### StudyPlus App (Software Engineering I)
+Applied agile practices to plan out and create an Android app to facilitate studying. It supports cue cards, quizzes and categorizing by course/topic.
 <br><br>
 
 
 
-### Interests and Activities
-* Ukrainian Dance: Dancing with the performing group at Lyre Ukrainian Dance School. Performed
-at venues such as the Forks, Folklorama, the Dauphin Ukrainian Dance Festival, a Winnipeg Blue 
-Bombers game and the International Ukrainian Dance and Culture Festival in Ukraine. Participated in 
-benefit concerts that raised more than $65 000 for causes in Ukraine.
-* Advocacy: Volunteering with Diabetes Canada and JDRF at various events. Spoken at fundraisers 
-and to Education students at the University of Winnipeg. Organized a series of presentations to 
-classrooms in St. James Assiniboia School Division middle schools in 2019.
-* Science Fair: Competed twice at the Canada Wide Science Fair with projects related to data analysis
+# Interests and Activities
+#### Ukrainian Dance
+Dancing with the performing group at Lyre Ukrainian Dance School. Performed at venues such as a Winnipeg Blue Bombers game and the International Ukrainian Dance and Culture Festival in Ukraine. Participated in benefit concerts that raised more than $65 000 for causes in Ukraine.
+#### Advocacy
+Volunteering with Diabetes Canada and JDRF at various events. Spoken at fundraisers and at educational workshops. Organized a series of presentations to classrooms in middle schools in 2019.
+#### Science Fair: Competed twice at the Canada Wide Science Fair with projects related to data analysis
 
 
 
