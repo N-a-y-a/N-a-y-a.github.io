@@ -37,7 +37,6 @@ share suggestions for effective teaching methods.
 * Tested tickets for one sprint and caught a major bug resulting from inconsistencies between front and back-end validation that would have impacted the user experience.
 * Communicated with members of three different teams to ensure the completion of tickets that spanned the scope of several projects.
 
-
 #### Software Developer, LineNurse, May 2023 - September 2023
 * Completed approximately 100 tickets including creating new backend functions, creating new features, improvements to existing features and bug fixes to improve website functionality.
 * Refactored files to improve code cleanliness, including removing approximately one quarter of the code in a four thousand line file through modularization, and moving GraphQL calls to the backend to mitigate security risks.
@@ -54,3 +53,29 @@ share suggestions for effective teaching methods.
 *  Leader of Tomorrow Scholarship: awarded to six students entering university with continuous community involvement, high academic standing, and strong leadership potential (2020 – present) 
 * Women in the Physical Sciences Scholarship: awarded to some women who have completed their first year and are in a computer science or physical science discipline (2021, 2022)
 * President’s Scholarship: awarded to students who enter university with minimum 95% average grade from high school and maintain a 4.0 GPA (2020 – 2021)
+<br><br>
+
+
+
+### Academic Projects
+* Pet Adoption Website (Human-Computer Interaction I): Created the user interface for a pet 
+adoption website in a group of 5 using JavaScript, HTML and CSS. Design principles were applied to 
+ensure a good user experience.
+* StudyPlus App (Software Engineering I): Applied agile practices to plan out and create an Android 
+app to facilitate studying. It supports cue cards, quizzes and categorizing by course/topic.
+<br><br>
+
+
+
+### Interests and Activities
+* Ukrainian Dance: Dancing with the performing group at Lyre Ukrainian Dance School. Performed
+at venues such as the Forks, Folklorama, the Dauphin Ukrainian Dance Festival, a Winnipeg Blue 
+Bombers game and the International Ukrainian Dance and Culture Festival in Ukraine. Participated in 
+benefit concerts that raised more than $65 000 for causes in Ukraine.
+* Advocacy: Volunteering with Diabetes Canada and JDRF at various events. Spoken at fundraisers 
+and to Education students at the University of Winnipeg. Organized a series of presentations to 
+classrooms in St. James Assiniboia School Division middle schools in 2019.
+* Science Fair: Competed twice at the Canada Wide Science Fair with projects related to data analysis
+
+
+
